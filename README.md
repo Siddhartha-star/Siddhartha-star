@@ -1,5 +1,5 @@
- 👋 Hi, I’m @Siddhartha Bandi
-- 👀 I’m interested in leaning JAVA
+ 👋 Hi, I’m @Bandi Venkata Siddhartha
+- 👀 I’m interested in leaning Web technologies
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me bandivenkatasiddhartha@gmail.com
